@@ -1,0 +1,6 @@
+ID,Name,Age,Salary
+101,Alice Johnson,29.0,60000.0
+102,Bob Lee,45.0,80000.0
+103,Chris Wong,,55000.0
+104,,33.0,48000.0
+105,Emma Wilson,27.0,
